@@ -1,0 +1,9 @@
+{
+    "images":{
+        "clouds":{"file":"myImage.jpg","width":135,"height":45}
+    },
+    "rules":{
+        "lists":true,
+        "dataListMinimumLength":16
+    }
+}

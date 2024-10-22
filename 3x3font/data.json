@@ -1,0 +1,9 @@
+{
+    "images":{
+        "font":{"file":"3x3matrixfont.png","width":123,"height":3}
+    },
+    "rules":{
+        "lists":true,
+        "dataListMinimumLength":16
+    }
+}
